@@ -10,7 +10,7 @@ WooCommerce Pluxee est un module WordPress qui permet l'acceptation des cartes P
 
 ## Installation
 
-1. Téléchargez [la dernière version](https://github.com/machour/woocommerce-pluxee/archive/refs/heads/main.zip) depuis GitHub.
+1. Téléchargez [la dernière version](https://github.com/soul-and-planet/woocommerce-pluxee/archive/refs/heads/main.zip) depuis GitHub.
 2. Installez l'archive via l'interface WordPress
 3. Activez l'extension
 
@@ -32,4 +32,4 @@ WooCommerce Pluxee est un module WordPress qui permet l'acceptation des cartes P
 
 Le code source de cette extension est disponible sur le repository suivant :
 
-https://github.com/machour/woocommerce-pluxee
+https://github.com/soul-and-planet/woocommerce-pluxee
