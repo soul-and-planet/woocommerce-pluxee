@@ -80,13 +80,13 @@ function init_wc_pluxee()
                     'title' => 'Title',
                     'type' => 'text',
                     'description' => 'Le nom du moyen de paiement que l\'utilisateur voit sur le site.',
-                    'default' => 'Carte Pluxee',
+                    'default' => 'Paiement en ligne',
                 ),
                 'description' => array(
                     'title' => 'Description',
                     'type' => 'text',
                     'description' => 'La description que l\'utilisateur voit sur le site.',
-                    'default' => 'Payer avec votre carte Pluxee.',
+                    'default' => 'Payer en ligne avec Pluxee.',
                 ),
                 'testmode' => array(
                     'title' => 'Test mode',
